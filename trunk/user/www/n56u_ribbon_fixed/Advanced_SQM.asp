@@ -304,15 +304,15 @@ function getHash(){
                 </button>
                 <h4 class="modal-title">SQM QoS 速度计算器</h4>
             </div>
-            <div class="modal-body">
+            <div class="modal-body-fix">
                 <div>
-                    <span style="display: inline-block; width:68px;">带宽</span>:<input type="text" class="span2" style="margin: 1px 5px;" id="bw_in_Mbps" value="10">Mbps
+                    <span style="display: inline-block; width:68px;">带宽</span>:<input type="text" class="span2" style="margin: 1px 5px;background-color: #ffffff;" id="bw_in_Mbps" value="10">Mbps
                 </div>
                 <div>
-                    <span style="display: inline-block; width:68px;">百分比</span>:<input type="text" class="span2" style="margin: 1px 5px;" id="bw_percent" value="95"> %
+                    <span style="display: inline-block; width:68px;">百分比</span>:<input type="text" class="span2" style="margin: 1px 5px;background-color: #ffffff;" id="bw_percent" value="95"> %
                 </div>
                 <div>
-                    <span style="display: inline-block; width:68px;">结果</span>:<input type="text" readonly class="span2" style="margin: 1px 5px;" id="bw_result" value=""> kbit/s
+                    <span style="display: inline-block; width:68px;">结果</span>:<input type="text" readonly class="span2" style="margin: 1px 5px;background-color: #ffffff;" id="bw_result" value=""> kbit/s
                 </div>
             </div>
             <div class="modal-footer">
