@@ -1457,7 +1457,7 @@ setTimeout('document.getElementById("btn_ctime").style.display="none";',1000);
 			-moz-border-radius: 5px;
 			border-radius: 5px;
 			z-index: 200;
-			background-color: #ffffff;
+			background-color: #535c68;
 			margin-left: 15px;
 			top: 80px;
 			width: 650px;
