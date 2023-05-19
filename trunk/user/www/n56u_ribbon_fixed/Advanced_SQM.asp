@@ -295,7 +295,7 @@ function getHash(){
 </div>
 
 <!-- foreign dns list modal -->
-<div class="modal fade" id="bw_calc_dialog" style="left: 60%;width: 300px;overflow: hidden;">
+<div class="modal fade" id="bw_calc_dialog" style="left: 60%;width: 300px;background-color: dimgray;overflow: hidden;">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
